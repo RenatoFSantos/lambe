@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/shelter.otf",
+      "sha1": "59d67addcd9a699b53180472f2e009b936d92a8f"
+    },
+    {
+      "path": "src/assets/imgs/boat.jpg",
+      "sha1": "e2d4b78f301fb584f7775f63ed06a36b64eb90a8"
+    },
+    {
+      "path": "src/assets/imgs/bw.jpg",
+      "sha1": "646ff40c7648cce62e85ad2bc868849c93cb2deb"
+    },
+    {
+      "path": "src/assets/imgs/fence.jpg",
+      "sha1": "967ebad405ef25835a94cf491aa0e4d1b9b2a271"
+    },
+    {
+      "path": "src/assets/imgs/gate.jpg",
+      "sha1": "3e4d79a92f7b444fbf919a77daa9c19601d8b5e4"
+    },
+    {
+      "path": "src/assets/imgs/icon.png",
+      "sha1": "f66cdbdf6308df107f4c71e5a7a796f0fe756ce3"
+    }
+  ]
+}
